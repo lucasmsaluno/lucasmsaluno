@@ -1,3 +1,5 @@
+<img src="./assets/monochromecat.jpg" alt="Banner do Projeto" style="width: 100%; height: 260px;"/>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasmsaluno&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Lucas Miranda!
