@@ -5,8 +5,9 @@
 ### Olá, meu nome é Lucas Miranda!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=lucasmsaluno&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<p>Desenvolvedor Android Nativo</p>
+💚 Desenvolvedor Android Nativo
 🎓 Estudando SI no Instituto Federal Fluminense.
+🚵🏽 Andando de BMX no tempo livre 
 
 <br/>
 <br/>
