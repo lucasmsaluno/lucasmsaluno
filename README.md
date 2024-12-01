@@ -6,8 +6,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=lucasmsaluno&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p>Desenvolvedor Android Nativo</p>
-🎓 Estudando Sistemas de Informação no Instituto Federal Fluminense.
-🌱 Aprendendo sobre Desenvolvimento Android Nativo.
+🎓 Estudando SI no Instituto Federal Fluminense.
 
 <br/>
 <br/>
