@@ -1,36 +1,29 @@
-<img src="./assets/monochromecat.jpg" alt="Banner do Projeto" style="width: 100%; height: 260px;"/>
+<h2 align="left">About me</h2>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=FFFFFF&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Miranda!;" />
-</h1>
+###
 
-<h3 align="center">An Native Android Developer from Brazil 🟢🟡🔵🟡🟢</h3>
+<p align="left">My name is Lucas, and I'm a backend developer from Brazil🟢🟡🔵🟡🟢 <br><br>🌱 I’m currently learning about Ruby On Rails<br>⚡ Fun fact: I love BMX</p>
 
- <br/>
-<br/>
+###
 
-<div align="center">
- 
- 🔭 I’m currently studying information systems at the federal institute of Rio de Janeiro
- 
- 🌱 I’m currently learning about **Android Native Development**
+<h2 align="left">I code with</h2>
 
-⚡ Fun fact: **I love BMX**
+###
 
- </div>
-
- <br/>
-<br/>
-
-
-<div align="center"> 
-  <a href="mailto:lucas.miranda@gsuite.iff.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/lucasmirandalm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="lucasmirandaweb.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+###
