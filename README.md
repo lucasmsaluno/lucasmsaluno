@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">My name is Lucas, and I'm a backend developer from Brazil🟢🟡🔵🟡🟢 <br><br>🌱 I’m currently learning about Ruby On Rails<br>⚡ Fun fact: I love BMX</p>
+<p align="left">I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>🌱 I’m currently learning about Ruby On Rails<br>⚡ Fun fact: I love BMX</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
+</div>
 
 ###
 
