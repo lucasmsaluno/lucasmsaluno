@@ -1,18 +1,29 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Lucas and I'm a Backend Developer, from Brazil</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>🌱 I’m currently learning about Ruby On Rails<br>⚡ Fun fact: I love BMX</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
+<div>
+  <p align="left">
+    I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
+    ✨ Creating bugs since 2025<br>
+    🌱 I’m currently learning about Ruby On Rails<br>
+    ⚡ Fun fact: I love BMX<br>
+    📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Rails ⭕<br>
+    🎯 Goals: live in a cold place ❄<br>
+  </p>
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Stack</h2>
 
 ###
 
@@ -31,5 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
 
 ###
