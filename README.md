@@ -13,7 +13,7 @@
 <div>
   <p align="left">
     I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
-    ✨ Creating bugs since 2025<br>
+    ✨ Creating bugs since 2019<br>
     🌱 I’m currently learning about Ruby On Rails<br>
     ⚡ Fun fact: I love BMX<br>
     📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Rails ⭕<br>
