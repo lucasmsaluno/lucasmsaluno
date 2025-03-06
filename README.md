@@ -16,7 +16,7 @@
     ✨ Creating bugs since 2019<br>
     🌱 I’m currently learning about Ruby On Rails<br>
     ⚡ Fun fact: I love BMX<br>
-    📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Rails ⭕<br>
+    📚 I'm currently learning Rails ⭕<br>
     🎯 Goals: live in a cold place ❄<br>
   </p>
 </div>
