@@ -14,7 +14,6 @@
   <p align="left">
     I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
     ✨ Creating bugs since 2019<br>
-    🌱 I’m currently learning about Ruby On Rails<br>
     ⚡ Fun fact: I love BMX<br>
     📚 I'm currently learning GO 🔷<br>
     🎯 Goals: live in a cold place ❄<br>
