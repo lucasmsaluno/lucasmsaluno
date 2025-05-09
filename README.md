@@ -16,7 +16,7 @@
     ✨ Creating bugs since 2019<br>
     ⚡ Fun fact: I love BMX<br>
     📚 I'm currently learning GO 🔷<br>
-    🎯 Goals: live in a cold place ❄<br>
+    🎯 Goals: close VIM<br>
   </p>
 </div>
 
