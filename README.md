@@ -58,6 +58,6 @@
 <br>
 <br>
 
-<img align="center" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
+<img align="center" width="300" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
 
 ###
