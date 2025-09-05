@@ -15,7 +15,7 @@
     I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
     ✨ Creating bugs since 2023<br>
     ⚡ Fun fact: I love BMX<br>
-    📚 I'm currently learning typescript 🔷<br>
+    📚 I'm currently learning Go 🔷<br>
     🎯 Goals: close VIM<br>
   </p>
 </div>
